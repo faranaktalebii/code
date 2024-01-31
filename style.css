@@ -1,0 +1,48 @@
+h1 {
+    font-size: 100px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.dog-picture {
+     width: 300px;
+     height: auto;
+}
+
+#dog-bordered {
+ border: 4px ;
+}
+   
+.button-red{
+    background-color: red;
+    color: white;
+    padding: 17px;
+    margin: 12px;
+    border: 8px;
+    transition: red ;
+}
+
+.button-red:hover {
+background-color: white;
+border: 3px red solid;
+color: red;
+transition: .2s;
+}
+.box11 {
+     width: 1000px;
+     border: red solid;
+
+}
+.card-white{
+    width: 600px;
+    margin: 20px;
+    box-shadow: 10px 20px 20 px black
+    
+}
+    
+
+
